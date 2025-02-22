@@ -123,7 +123,7 @@ mpirun -n 16 smilei /path/to/input/file
 
 在超算上通过高性能计算-作业提交-模板，进入如下界面：
 
-![img](.\img.png)
+![img](./img.png)
 
 下面是对一些选项的解释：
 
